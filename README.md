@@ -1,2 +1,2 @@
 # CSCA-5632
-CSCA 5632 class projects at the University of Colorado Boulder
+This repository covers the python notebooks for projects required for the CSCA-5632 class: Unsupervised Algorithms in Machine Learning.
